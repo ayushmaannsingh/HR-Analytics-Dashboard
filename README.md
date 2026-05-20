@@ -1,5 +1,7 @@
 📊 HR Analytics Dashboard | Power BI Project
 
+<img width="1299" height="734" alt="Screenshot 2026-05-13 181203" src="https://github.com/user-attachments/assets/d10485b7-66a2-464e-a08a-b187195cd726" />
+
 This project is an interactive HR Analytics Dashboard developed in Microsoft Power BI to analyze employee data and uncover workforce insights. The dashboard focuses on employee attrition analysis, helping organizations understand trends related to employee turnover.
 
 Key Features:
