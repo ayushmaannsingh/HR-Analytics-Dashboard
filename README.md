@@ -22,4 +22,3 @@ The dashboard helps HR teams identify patterns in employee attrition and support
 
 #PowerBI #HRAnalytics #DataAnalytics
 
-Ye recruiter-friendly bhi lagega aur professional bhi ✅
